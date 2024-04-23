@@ -1,6 +1,6 @@
 //
 //  RXRedditAuthManager.h
-//  RxRedditSDK
+//  RXRedditSDK
 //
 //  Created by root11 on 2024/4/11.
 //
