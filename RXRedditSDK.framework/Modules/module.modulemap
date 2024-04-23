@@ -1,6 +1,0 @@
-framework module RXRedditSDK {
-  umbrella header "RXRedditSDK.h"
-  export *
-
-  module * { export * }
-}
