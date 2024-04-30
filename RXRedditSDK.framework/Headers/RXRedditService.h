@@ -30,11 +30,11 @@ typedef void(^resposeBlock)(NSDictionary *successDic, NSDictionary *failDic);
 + (instancetype)sharedSDK;
 
 /**
- * 初始化 Reddit
+ * 注册 Reddit
  * @param clientID 应用ID
  * @param redirectURI 应用重定向网址
  * 您在使用Reddit登录前需要在https://www.reddit.com/prefs/apps注册应用
- * 注册应用时设置重定向网址redirectURI；注册后获取对应的应用ID
+ * 注册应用时自动生成应用ID，并设置重定向网址redirectURI
  */
 - (void)initWithClientID:(NSString *)clientID redirectURI:(NSString *)redirectURI;
 

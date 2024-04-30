@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RXRedditService.h</key>
 		<data>
-		+rHaYQWQnGbnhY08/A2HJIkBR2U=
+		DCeof+vA4lxEwXnHWtFL3n3Zpn0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -19,6 +19,10 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		QaytlMuCAfG8cONN5o8ZW8Gcw+Y=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		i3YpomTpJHpRGpdt+oGaesmknBg=
 		</data>
 		<key>PrivateHeaders/RXRedditAuthManager.h</key>
 		<data>
@@ -38,7 +42,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vz4o0Up7KWUZSWFdQPVk9/2n30mAQBTxj36AXrEpr24=
+			KqWsK130F2mxodTYcXZSUqPBTyp/fSdEBQkQDitxEBo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -46,6 +50,13 @@
 			<key>hash2</key>
 			<data>
 			v8eRm3Pyb52iSFuUNqqB+qt//m0iJtqwvs5MGUH2RLE=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RXRedditAuthManager.h</key>
