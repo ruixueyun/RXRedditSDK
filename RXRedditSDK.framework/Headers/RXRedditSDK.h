@@ -15,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char RxRedditSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <RxRedditSDK/PublicHeader.h>
 
-#import <RxRedditSDK/RXRedditService.h>
+#import <RXRedditSDK/RXRedditService.h>
